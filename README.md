@@ -5,9 +5,11 @@
 Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
 
 I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.
-  
+
+---
+
 ## Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
@@ -15,6 +17,8 @@ I am graduated in Production Engineering, passionate about technology and progra
   <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
+
+---
 
 ## Certifications
 <div>
@@ -24,9 +28,9 @@ I am graduated in Production Engineering, passionate about technology and progra
   <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
-##
+---
 
 <div> 
-  <a href="https://www.linkedin.com/in/otacilio-psf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/otacilio-psf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/otacilio-psf/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/otacilio-psf" target="_blank"><img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
