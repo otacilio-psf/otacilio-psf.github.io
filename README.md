@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Otacilio P S Filho
 
-You can use the [editor on GitHub](https://github.com/otacilio-psf/otacilio-psf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi! I'm a Brazilian Data Engineer working around the world! <img height="25" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/><img height="25" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/><img height="25" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
 
-### Markdown
+I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.
+  
+## Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
+  <img align="center" alt="Databricks" height="45" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/databricks-logo-768x434.png">
+  <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Certifications
+<div>
+  <a href = "https://www.credly.com/badges/229e1597-0d16-4265-9e0f-746c3e3920e8/public_url" target="_blank"><img alt="Azure Data Engineer Associate" height="100" src="attachment/microsoft-certified-azure-data-engineer-associate.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img alt="Azure Data Fundamentals" height="100" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img alt="Azure Fundamentals" height="100" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
+  <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
+</div>
 
-```markdown
-Syntax highlighted code block
+##
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otacilio-psf/otacilio-psf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div> 
+  <a href="https://www.linkedin.com/in/otacilio-psf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/otacilio-psf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
