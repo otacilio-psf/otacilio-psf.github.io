@@ -7,13 +7,13 @@
 
 ## Skills
 <div style="display: inline_block">
-  <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Azure" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   <img align="center" alt="Databricks" height="45" src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/databricks-logo.png">
-  <img align="center" alt="Delta Lake" height="50" src="https://github.com/otacilio-psf/otacilio-psf.github.io/raw/main/attachment/delta.png">
-  <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Delta Lake" height="45" src="https://github.com/otacilio-psf/otacilio-psf.github.io/raw/main/attachment/delta.png">
+  <img align="center" alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
 
 ---
@@ -33,5 +33,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=spark-dev-env-docker)](https://github.com/otacilio-psf/spark-dev-env-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-cloud-handler)](https://github.com/otacilio-psf/azure-cloud-handler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-spark-on-kubernetes)](https://github.com/otacilio-psf/azure-spark-on-kubernetes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=ingestion-on-postgres)](https://github.com/otacilio-psf/ingestion-on-postgres)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=dev_api_with_flask)](https://github.com/otacilio-psf/dev_api_with_flask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=docker-nosql)](https://github.com/otacilio-psf/docker-nosql)
