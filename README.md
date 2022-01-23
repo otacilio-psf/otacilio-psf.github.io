@@ -2,11 +2,11 @@
 
 ---
 
-## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/><img height="22" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/><img height="22" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png"/>
+## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/> <img height="22" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png"/>
 
-### Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
+<font size="+2">Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
 
-### I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.
+I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.</font>
 
 ---
 
@@ -31,3 +31,12 @@
 </div>
 
 ---
+
+## Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=spark-dev-env-docker)](https://github.com/otacilio-psf/spark-dev-env-docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-cloud-handler)](https://github.com/otacilio-psf/azure-cloud-handler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-spark-on-kubernetes)](https://github.com/otacilio-psf/azure-spark-on-kubernetes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=igti-cde-mod3-desafio)](https://github.com/otacilio-psf/igti-cde-mod3-desafio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=dev_api_with_flask)](https://github.com/otacilio-psf/dev_api_with_flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=docker-nosql)](https://github.com/otacilio-psf/docker-nosql)
