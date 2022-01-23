@@ -33,6 +33,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=spark-dev-env-docker)](https://github.com/otacilio-psf/spark-dev-env-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-cloud-handler)](https://github.com/otacilio-psf/azure-cloud-handler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-spark-on-kubernetes)](https://github.com/otacilio-psf/azure-spark-on-kubernetes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=igti-cde-mod3-desafio)](https://github.com/otacilio-psf/igti-cde-mod3-desafio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=dev_api_with_flask)](https://github.com/otacilio-psf/dev_api_with_flask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=docker-nosql)](https://github.com/otacilio-psf/docker-nosql)
