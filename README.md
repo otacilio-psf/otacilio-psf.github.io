@@ -2,7 +2,7 @@
 
 ---
 
-## Hi! I'm a Brazilian Data Engineer working around the world! <img height="25" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/><img height="25" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/><img height="25" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png"/>
+## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/><img height="22" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/><img height="22" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png"/>
 
 Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
 
