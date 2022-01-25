@@ -24,7 +24,7 @@
   <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img alt="Azure Data Fundamentals" height="80" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img alt="Azure Fundamentals" height="80" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/271513a5-16c8-44af-8003-fee58bfef535/public_url" target="_blank"><img alt="Azure AI Fundamentals" height="80" src="attachment/azure-ai-fundamentals-600x600.png" target="_blank"></a>
-  <a href = "https://www.credly.com/badges/b8afee07-4890-41db-a9ee-ab92097a9a6d/public_url" target="_blank"><img alt="Microsoft Security, Compliance, and Identity Fundamentals" height="100" src="attachment/security-compliance-and-identity-fundamentals-600x600.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/b8afee07-4890-41db-a9ee-ab92097a9a6d/public_url" target="_blank"><img alt="Microsoft Security, Compliance, and Identity Fundamentals" height="80" src="attachment/security-compliance-and-identity-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="80" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
