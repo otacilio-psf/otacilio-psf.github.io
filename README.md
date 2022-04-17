@@ -10,7 +10,7 @@
   <img align="center" alt="Azure" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  <img align="center" alt="Databricks" height="45" src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/databricks-logo.png">
+  <img align="center" alt="Databricks" height="45" src="attachment/databricks-logo.png">
   <img align="center" alt="Delta Lake" height="45" src="attachment/delta-lake.png">
   <img align="center" alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
