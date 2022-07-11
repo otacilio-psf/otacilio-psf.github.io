@@ -24,13 +24,13 @@
  <a href = "https://credentials.databricks.com/e0ed2b9b-b25b-4e28-82a1-29dfd0a5f134" target="_blank"><img alt="Databricks Certified Data Engineer Associate" height="95" src="attachment/Associate-badge-eng-2x.png" target="_blank"></a>
  <a href = "https://credentials.databricks.com/514c3b5f-ee4f-46c9-8667-6ff01519e83c" target="_blank"><img alt="Databricks Certified Associate Developer for Apache Spark 3.0" height="95" src="attachment/Specialty-badge-spark-developer-associate-2x.png" target="_blank"></a>
  <a href = "https://credentials.databricks.com/60bb371c-d52e-4bf5-a49f-4ea5b66ac3be" target="_blank"><img alt="Academy Accreditation - Databricks Lakehouse Fundamentals" height="90" src="attachment/fundamentals-badge-lakehouse-img.png" target="_blank"></a>
- 
+<br>
   <a href = "https://www.credly.com/badges/229e1597-0d16-4265-9e0f-746c3e3920e8/public_url" target="_blank"><img alt="Azure Data Engineer Associate" height="85" src="attachment/azure-data-engineer-associate-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img alt="Azure Data Fundamentals" height="85" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img alt="Azure Fundamentals" height="85" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/271513a5-16c8-44af-8003-fee58bfef535/public_url" target="_blank"><img alt="Azure AI Fundamentals" height="85" src="attachment/azure-ai-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/b8afee07-4890-41db-a9ee-ab92097a9a6d/public_url" target="_blank"><img alt="Microsoft Security, Compliance, and Identity Fundamentals" height="85" src="attachment/security-compliance-and-identity-fundamentals-600x600.png" target="_blank"></a>
-  
+<br>
  <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="85" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
