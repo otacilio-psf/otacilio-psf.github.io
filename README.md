@@ -33,7 +33,7 @@
   <a href = "https://www.credly.com/badges/271513a5-16c8-44af-8003-fee58bfef535/public_url" target="_blank"><img alt="Azure AI Fundamentals" height="85" src="attachment/azure-ai-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/b8afee07-4890-41db-a9ee-ab92097a9a6d/public_url" target="_blank"><img alt="Microsoft Security, Compliance, and Identity Fundamentals" height="85" src="attachment/security-compliance-and-identity-fundamentals-600x600.png" target="_blank"></a>
 <br>
- <a href = "https://www.credly.com/badges/6102c5ab-32e4-4f35-8ecf-f296d9df1638" target="_blank"><img height="85" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" target="_blank"></a>
+ <a href = "https://www.credly.com/badges/6102c5ab-32e4-4f35-8ecf-f296d9df1638" target="_blank"><img height="85" src="attachment/airflow.png" target="_blank"></a>
  <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="85" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
