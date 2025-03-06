@@ -4,11 +4,9 @@
 Results-driven Data Engineer with extensive experience in data ingestion and pipeline development within the Big Data ecosystem, both on-premises and in the cloud. Expertise in lakehouse storage, Python, Spark, Azure, Databricks and Snowflake, with a strong background in SQL, Linux, Docker and CI/CD pipelines. Adept at leading teams, solution design, and data migration projects.
 </font>
 <br>
-<br>
 <font size="+1">
 I hold a degree in Industrial Engineering and have a deep passion for technology and programming. With a data-driven mindset and a goal-oriented approach, I thrive on solving complex problems and driving impactful results.
 </font>
-<br>
 <br>
 <font size="+1">Technical Skills:
 <ul>
