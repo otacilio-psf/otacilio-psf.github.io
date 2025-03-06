@@ -5,7 +5,7 @@ Results-driven Data Engineer with extensive experience in data ingestion and pip
 </font>
 <br>
 <font size="+1">
-I hold a degree in Industrial Engineering and have a deep passion for technology and programming. With a data-driven mindset and a goal-oriented approach, I thrive on solving complex problems and driving impactful results.
+I hold a degree in Industrial Engineering and a master's in Big Data and Business Intelligence, combining my strong analytical background with a deep passion for technology and programming. With a data-driven mindset and a goal-oriented approach, I thrive on solving complex problems and driving impactful results.
 </font>
 <br>
 <font size="+1">Technical Skills:
