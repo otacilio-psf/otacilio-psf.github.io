@@ -1,19 +1,19 @@
 ## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
 
 <font size="+1">
-Results-driven Data Engineer with extensive experience in data ingestion and pipeline development within the Big Data ecosystem, both on-premises and in the cloud. Expertise in lakehouse storage, Python, Spark, Azure, Databricks and Snowflake, with a strong background in SQL, Linux, Docker and CI/CD pipelines. Adept at leading teams, solution design, and data migration projects.
+Lead Data Engineer with 6+ years of hands-on experience designing and delivering enterprise-scale data platforms for global leaders including PepsiCo, Volvo Group, and P&G. Experienced in leading cross-functional teams (up to 7 engineers and analysts), designing lakehouse architectures on Azure and Databricks, migrating legacy ETL platforms (Informatica, SAS) to modern cloud-native solutions, and translating business needs into scalable, production-grade data products.
 </font>
 <br>
 <font size="+1">
-I hold a degree in Industrial Engineering and a master's in Big Data and Business Intelligence, combining my strong analytical background with a deep passion for technology and programming. With a data-driven mindset and a goal-oriented approach, I thrive on solving complex problems and driving impactful results.
+Skilled in the Azure ecosystem (Databricks, ADF, Synapse, Functions), with deep proficiency in Spark, Python, SQL, and Delta Lake.
 </font>
 <br>
 <font size="+1">Technical Skills:
 <ul>
-<li>Cloud Platforms: Microsoft Azure (Data Factory, Synapse Analytics, Storage Account (data lake), DevOps, Kubernetes, Functions)</li>
-<li>Big Data & ETL: Databricks, Delta Lake, Snowflake</li>
+<li>Cloud Platforms: Microsoft Azure (Data Factory, Synapse Analytics, Storage Account/data lake, Functions)</li>
+<li>Big Data & ETL: Databricks, Delta Lake</li>
 <li>Programming: Python, Spark, SQL, Shell, PowerShell</li>
-<li>DevOps & Containers: CI/CD (Azure DevOps), Docker, Linux/WSL</li>
+<li>DevOps & Containers: CI/CD (Azure DevOps), Docker, Kubernetes, Linux/WSL</li>
 </ul>
 </font>
 
