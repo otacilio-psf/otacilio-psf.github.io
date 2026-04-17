@@ -1,4 +1,4 @@
-## Data Engineering Manager | Leading Scalable Data Solutions on Azure & Databricks <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
+## Leading Scalable Data Solutions on Azure & Databricks <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
 
 <font size="+1">
 Data Engineering Manager with 7+ years of hands-on experience designing and delivering enterprise-scale data platforms for global leaders including Danone, PepsiCo, Volvo Group, and P&G. Experienced in leading cross-functional teams, designing lakehouse architectures on Azure and Databricks, migrating legacy ETL platforms (Informatica, SAS) to modern cloud-native solutions, and translating business needs into scalable, production-grade data products
