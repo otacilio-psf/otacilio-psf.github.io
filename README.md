@@ -1,7 +1,7 @@
-## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
+## Data Engineering Manager | Leading Scalable Data Solutions on Azure & Databricks <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
 
 <font size="+1">
-Lead Data Engineer with 6+ years of hands-on experience designing and delivering enterprise-scale data platforms for global leaders including PepsiCo, Volvo Group, and P&G. Experienced in leading cross-functional teams (up to 7 engineers and analysts), designing lakehouse architectures on Azure and Databricks, migrating legacy ETL platforms (Informatica, SAS) to modern cloud-native solutions, and translating business needs into scalable, production-grade data products.
+Data Engineering Manager with 7+ years of hands-on experience designing and delivering enterprise-scale data platforms for global leaders including Danone, PepsiCo, Volvo Group, and P&G. Experienced in leading cross-functional teams, designing lakehouse architectures on Azure and Databricks, migrating legacy ETL platforms (Informatica, SAS) to modern cloud-native solutions, and translating business needs into scalable, production-grade data products
 </font>
 <br>
 <font size="+1">
@@ -13,7 +13,7 @@ Skilled in the Azure ecosystem (Databricks, ADF, Synapse, Functions), with deep 
 <li>Cloud Platforms: Microsoft Azure (Data Factory, Synapse Analytics, Storage Account/data lake, Functions)</li>
 <li>Big Data & ETL: Databricks, Delta Lake</li>
 <li>Programming: Python, Spark, SQL, Shell, PowerShell</li>
-<li>DevOps & Containers: CI/CD (Azure DevOps), Docker, Kubernetes, Linux/WSL</li>
+<li>DevOps & Containers: Git, CI/CD, Docker, Kubernetes, Linux/WSL</li>
 </ul>
 </font>
 
@@ -56,8 +56,8 @@ Skilled in the Azure ecosystem (Databricks, ADF, Synapse, Functions), with deep 
 ## Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=spark-dev-env-docker)](https://github.com/otacilio-psf/spark-dev-env-docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-cloud-handler)](https://github.com/otacilio-psf/azure-cloud-handler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-functions-ingestion)](https://github.com/otacilio-psf/azure-functions-ingestion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-spark-on-kubernetes)](https://github.com/otacilio-psf/azure-spark-on-kubernetes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=ingestion-on-postgres)](https://github.com/otacilio-psf/ingestion-on-postgres)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=docker-nosql)](https://github.com/otacilio-psf/docker-nosql)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-cloud-handler)](https://github.com/otacilio-psf/azure-cloud-handler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=Chat-Gourmet-AI)](https://github.com/otacilio-psf/Chat-Gourmet-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=ducklake-pyspark)](https://github.com/otacilio-psf/ducklake-pyspark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=azure-functions-ingestion)](https://github.com/otacilio-psf/azure-functions-ingestion)
